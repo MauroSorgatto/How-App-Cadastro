@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MySubscribers</string>
+
+    <!-- Tela de Cadastro -->
+    <string name="Subscriber_name_hint" >Nome</string>
+    <string name="Email_name_hint" >E-mail</string>
+    <string name="Subscriber_button">Adicionar</string>
+    <string name="Subscriber_title">Cadastro</string>
+</resources>

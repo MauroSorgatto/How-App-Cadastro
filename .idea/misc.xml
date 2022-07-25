@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Hell/AndroidStudioProjects/MySubscribers/app/src/main/res/drawable/ic_add.xml" value="0.214" />
         <entry key="..\:/Users/Hell/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/activity_main.xml" value="0.3625" />
         <entry key="..\:/Users/Hell/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/fragment_subscriber.xml" value="0.3625" />
+        <entry key="..\:/Users/Hell/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/fragment_subscriber_list.xml" value="0.1393110435663627" />
+        <entry key="..\:/Users/Hell/AndroidStudioProjects/MySubscribers/app/src/main/res/layout/subscriber_item.xml" value="0.28541666666666665" />
       </map>
     </option>
   </component>

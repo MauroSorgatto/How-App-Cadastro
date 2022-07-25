@@ -11,4 +11,5 @@
 
     <!-- SubscriberList -->
     <string name="subscriberList_title" >Usuários Cadastrados</string>
+    <string name="Subscriber_button_delete">Excluir</string>
 </resources>

@@ -11,7 +11,7 @@
         android:label="@string/subscriberList_title"
         tools:layout="@layout/fragment_subscriber_list">
         <action
-            android:id="@+id/action_subscriberListFragment_to_subscriberFragment"
+            android:id="@+id/action_subscriberListFragment_to_subscriberFragment2"
             app:destination="@id/subscriberFragment" />
     </fragment>
 

@@ -8,6 +8,7 @@ import androidx.fragment.app.viewModels
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
+import androidx.navigation.fragment.navArgs
 import com.example.mysubscribers.R
 import com.example.mysubscribers.data.db.AppDatabase
 import com.example.mysubscribers.data.db.dao.SubscriberDAO
@@ -32,6 +33,7 @@ class SubscriberFragment : Fragment(R.layout.fragment_subscriber) {
             }
         }
     }
+
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
